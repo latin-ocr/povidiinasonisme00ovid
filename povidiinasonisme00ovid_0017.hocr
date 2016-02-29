@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonisme00ovid_0017.png"; bbox 0 0 2143 3610; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 264 1176 1676 1635">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 264 1176 1676 1635">
+     <span class='ocr_line' id='line_1_1' title="bbox 351 1176 1583 1272; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 351 1180 437 1270; x_wconf 78' lang='grc' dir='ltr'><em>Ρ,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 499 1176 942 1270; x_wconf 75' lang='lat' dir='ltr'>ovmn</span> <span class='ocrx_word' id='word_1_3' title='bbox 1001 1177 1583 1272; x_wconf 78' lang='lat' dir='ltr'>NASONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 264 1412 1676 1635; baseline 0.005 -61"><span class='ocrx_word' id='word_1_4' title='bbox 264 1412 1676 1635; x_wconf 63' lang='lat' dir='ltr'><em>Metmnoerphoseon</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 410 1779 1534 1871">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 410 1779 1534 1871">
+     <span class='ocr_line' id='line_1_3' title="bbox 410 1779 1534 1871; baseline 0.005 -23"><span class='ocrx_word' id='word_1_5' title='bbox 410 1779 740 1850; x_wconf 69' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_6' title='bbox 796 1781 1534 1871; x_wconf 59' lang='lat' dir='ltr'><em>QUINDECIM-⁶</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
